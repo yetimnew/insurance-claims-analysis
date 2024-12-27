@@ -1,0 +1,35 @@
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+.env
+
+# Logs
+*.log
+*.out
+*.err
+
+# IDE-specific ignores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Docker-related ignores
+*.dockerignore
+Dockerfile
+
+# DVC
+*.dvc
+.cache/
+
+# Miscellaneous
+*.bak
+*.swp
+*~
+Thumbs.db
+.DS_Store
+Data
